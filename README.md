@@ -1,6 +1,5 @@
 ## Olá, sou o Douglas, estudente de ADS e estagiário de desenvlvimento de software!
 
-- 🔭 Hoje Trabalho com front-end / back-end
 - 🌱 Estou estudando Java | Spring-boot | TypeScript | Angular
 
 <a href="https://www.linkedin.com/in/douglas-silva-aa45b2154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
