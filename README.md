@@ -1,4 +1,4 @@
-## Olá, sou o Douglas, estudente de ADS e estagiário de desenvlvimento de software!
+## Olá, sou o Douglas, estudente de ADS e desenvolvedor de software!
 
 - 🌱 Estou estudando Java | Spring-boot | TypeScript | Angular
 
